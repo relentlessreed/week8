@@ -32,13 +32,17 @@ html {
 .menu li {
   padding: 8px;
   margin-bottom: 7px;
-  background-color: #33b5e5;
-  color: #ffffff;
+  background-color: #b7e9fc;
+  color: #01438f
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 .menu li:hover {
   background-color: #0099cc;
+}
+
+.menu-item {
+  color: #01438f;
 }
 
 .aside {
@@ -101,4 +105,12 @@ html {
   [class*="col-"] {
     width: 100%;
   }
+}
+
+.card-body {
+  background-color: #b7e9fc;
+}
+
+.list-group-item {
+  background-color: #b7e9fc;
 }
