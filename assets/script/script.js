@@ -4,3 +4,6 @@
 // Projects (What Can I Cook That Won't Kill Me, Weather Wizard, Workday Scheduler)
 // Contact (Email, LinkedIn, GitHub, )
 // Footer (Made with ❤ © 2021)
+$("#gitHub").click(function () {
+  console.log("github clicked");
+});
