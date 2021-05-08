@@ -43,6 +43,7 @@ html {
 }
 
 .menu-item {
+  text-align: center;
   color: #01438f;
 }
 
@@ -59,7 +60,7 @@ html {
   background-color: #0099cc;
   color: #ffffff;
   text-align: center;
-  font-size: 12px;
+  font-size: 18px;
   padding: 15px;
 }
 
@@ -110,6 +111,7 @@ html {
 
 .card-body {
   background-color: #b7e9fc;
+  text-align: center;
 }
 
 .list-group-item {
