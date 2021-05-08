@@ -4,6 +4,7 @@ This is a most recently updated version of my portfolio. Included are three of m
 
 Technologies Used:
 
+- JavaScript
 - HTML
 - CSS
 - Bootstrap
