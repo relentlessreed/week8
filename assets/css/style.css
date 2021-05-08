@@ -29,15 +29,16 @@ html {
   padding: 0;
 }
 
-.menu li {
+.menu a {
+  display: block;
   padding: 8px;
-  margin-bottom: 7px;
+  margin-bottom: 15px;
   background-color: #b7e9fc;
-  color: #01438f
+  color: #01438f;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
-.menu li:hover {
+.menu a:hover {
   background-color: #0099cc;
 }
 
@@ -113,4 +114,9 @@ html {
 
 .list-group-item {
   background-color: #b7e9fc;
+}
+
+.headshot {
+  display: block;
+  width: 100%;
 }
