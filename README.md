@@ -13,4 +13,6 @@ Technologies Used:
 
 ![Screenshot](portfoliodemo.gif)
 
+![Screenshot](portfolioscreenshot.png)
+
 [Email Me: relentlessreed@gmail.com](mailto:relentlessreed@gmail.com?subject=GitHub)
